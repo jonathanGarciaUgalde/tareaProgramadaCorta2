@@ -10,5 +10,6 @@ package structbenchmark.cr.ac.tec.ce1103.structures.benchmack.EstructurasJerarqu
  * @author jonathan-garcia
  */
 public class ArbolBinario {
+    //
     
 }
